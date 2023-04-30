@@ -6,7 +6,7 @@ This script takes a .wav audio file path and a percentage to reduce the volume a
 ## Installation
 
 
-git clone https://github.com/yourusername/audio_volume_reducer.git
+git clone https://github.com/Privettjoshua93/GitHubPublic.git
 
 pip install numpy
 
