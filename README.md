@@ -12,6 +12,8 @@ pip install numpy
 
 pip install scipy
 
+test
+
 
 
 ## Usage
